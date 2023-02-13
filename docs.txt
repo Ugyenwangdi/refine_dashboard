@@ -41,3 +41,8 @@ Setup cloudinary for photo storage cloudinary.com
 - signup with google 
 - Get api key, secret from the cloudinary dashboard
 - save them in an environment variable 
+
+
+Deployment: 
+- Push to github 
+- backend to render 
