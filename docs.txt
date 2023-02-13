@@ -1,0 +1,43 @@
+
+$ npm create refine-app@latest client
+- y
+- CRA 
+- name 
+- Rest API 
+- Material ui 
+- install example pages yes
+- customize yes 
+- customize layout yes 
+- dark mode yes 
+- Material ui customize yes 
+- auth google 
+- i18n no
+- kbar no 
+
+
+$ cd client 
+$ npm install apexcharts react-apexcharts
+
+$ npm run dev 
+
+
+Server: 
+$ cd server 
+$ npm init -y
+$ npm install cloudinary cors dotenv express mongoose nodemon
+
+connect to mongodb atlas 
+add ip address, allow access from anywhere
+
+
+- Using Refine to create a react app 
+- Create API in express server 
+- Connecting to mongodb atlas
+- Full stack application
+
+
+Setup cloudinary for photo storage cloudinary.com 
+- get started 
+- signup with google 
+- Get api key, secret from the cloudinary dashboard
+- save them in an environment variable 
