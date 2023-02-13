@@ -46,3 +46,10 @@ Setup cloudinary for photo storage cloudinary.com
 Deployment: 
 - Push to github 
 - backend to render 
+
+Front end 
+- cd client 
+- npm run build
+- inside build folder, create file _redirects: 
+    /* /index.html 200
+- deploy client side to netlify
