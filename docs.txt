@@ -53,3 +53,9 @@ Front end
 - inside build folder, create file _redirects: 
     /* /index.html 200
 - deploy client side to netlify
+
+update origins on google console
+
+
+Updates:
+- change brands, make dynamic stats, dynamic maps
